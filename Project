@@ -1,0 +1,10 @@
+/static
+    /css
+        style.css
+    /images
+        image1.jpg
+        image2.jpg
+        image3.jpg
+/templates
+    index.html
+app.py
